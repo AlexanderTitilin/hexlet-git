@@ -1,1 +1,2 @@
-hui
+git is awesome!
+new line
